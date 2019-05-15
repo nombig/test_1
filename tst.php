@@ -1,4 +1,4 @@
-<?php 
+<fd?php 
 echo "a";
 
  ?>
